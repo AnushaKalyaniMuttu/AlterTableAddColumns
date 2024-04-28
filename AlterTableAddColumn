@@ -1,0 +1,4 @@
+ALTER TABLE your_table
+ADD column1 datatype,
+ADD column2 datatype,
+ADD column3 datatype;
